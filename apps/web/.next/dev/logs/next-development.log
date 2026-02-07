@@ -1,0 +1,12 @@
+[00:00:00.562] Server  LOG     
+[00:00:00.562] Server  LOG       We detected TypeScript in your project and created a tsconfig.json file for you.
+[00:00:00.691] Server  LOG     ✓ Ready in 470ms
+[00:00:07.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:35.368] Server  ERROR   ⨯ Error: The default export is not a React Component in "/auth/page"
+[00:00:35.598] Server  ERROR   ⨯ Error: The default export is not a React Component in "/auth/page"
+[00:00:37.052] Server  ERROR   ⨯ Error: The default export is not a React Component in "/auth/page"
+[00:00:37.268] Server  ERROR   ⨯ Error: The default export is not a React Component in "/auth/page"
+[00:00:37.394] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/auth/page"
+[00:01:24.478] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:53.577] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:57.383] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

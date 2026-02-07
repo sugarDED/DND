@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///D:/DND_Progect/DND/apps/web/app/campaigns/page.tsx"],"sourcesContent":["export default function CampaignsPage() {\r\n  return (\r\n    <main style={{ padding: 24 }}>\r\n      <h2>Campaigns</h2>\r\n      <p>List of campaigns will be here</p>\r\n    </main>\r\n  )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAK,OAAO;YAAE,SAAS;QAAG;;0BACzB,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

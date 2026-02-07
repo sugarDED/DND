@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///D:/DND_Progect/DND/apps/web/app/page.tsx"],"sourcesContent":["import Link from 'next/link'\r\n\r\nexport default function Home() {\r\n  return (\r\n    <main style={{ padding: 24 }}>\r\n      <h1>D&D MVP 🎲</h1>\r\n      <p>Frontend запущен и работает</p>\r\n\r\n      <ul>\r\n        <li><Link href=\"/auth\">Auth</Link></li>\r\n        <li><Link href=\"/campaigns\">Campaigns</Link></li>\r\n        <li><Link href=\"/session\">Session</Link></li>\r\n      </ul>\r\n    </main>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,OAAO;YAAE,SAAS;QAAG;;0BACzB,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;0BAEH,8OAAC;;kCACC,8OAAC;kCAAG,cAAA,8OAAC,0LAAI;4BAAC,MAAK;sCAAQ;;;;;;;;;;;kCACvB,8OAAC;kCAAG,cAAA,8OAAC,0LAAI;4BAAC,MAAK;sCAAa;;;;;;;;;;;kCAC5B,8OAAC;kCAAG,cAAA,8OAAC,0LAAI;4BAAC,MAAK;sCAAW;;;;;;;;;;;;;;;;;;;;;;;AAIlC"}}]
+}
